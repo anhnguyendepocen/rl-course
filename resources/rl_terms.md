@@ -18,7 +18,7 @@ Concepts
     + State
     + Reward
 - Models: 
-    - Deterministics
+    - Deterministic
     - Stochastic
 - dynamic programming (DP) 
 - discount factor
@@ -33,14 +33,14 @@ Concepts
     + Partially hidden
 - Rewards
     + Deterministic vs. stochastic
-    + Only at end vs. antermediate
+    + Only at end vs. intermediate
     + All-or-nothing vs gradation
 - Policy Types
     + Deterministic
     + Stochastic
 - Policy:
-    + Behaviour Policy
-    + Target Polic 
+    + Behavior Policy
+    + Target Policy 
 - Algorithms types
     - Model-based algorithms
     - Model-free algorithms

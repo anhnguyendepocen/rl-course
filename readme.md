@@ -22,7 +22,7 @@ __Contact__: [Slack @alice](https://msan-usf.slack.com/messages/DJLJMRM5K) | [aw
 
 __Website__: [github.com/brianspiering/
 rl-course](https://github.com/brianspiering/rl-course)    
-__Communication__: Slack [`#msds_rl`](https://msan-usf.slack.com/messages/CDZGD9FAL)  
+__Communication__: Slack [`#reinforcement_learning_2020`](https://msan-usf.slack.com/archives/C010GN8CQ3W)  
 __Location__: TBD   
 __Section__: TBD
 
@@ -48,15 +48,15 @@ Tentative Course Schedule
 
 1.  (05/??) Welcome ∧ Intro to RL  
 2.  (05/??) Multi-armed Bandits Redux
-3.  (05/??) Markov Decision Processes (MDP) with models
-4.  (05/??) Model-Free Policy Evaluation ∧ Dynamic Programming
-5.  (06/??) Model-Free Control ∧ Q Learning
-6.  (06/??) Value Function Approximation
-7.  (06/??) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL) 
-8.  (06/??) Deep Q-learning
-9.  (06/??) TBD
-10. (06/??) Deep Reinforcement Learning Applications I
-11. (06/??) Deep Reinforcement Learning Applications II
+3.  (05/??) Contextual Bandits
+4.  (05/??) Markov Decision Processes (MDP) 
+5.  (06/??) Model-Free Policy Evaluation ∧ Dynamic Programming
+6.  (06/??) Model-Free Control ∧ Q Learning
+7.  (06/??) Value Function Approximation 
+8.  (06/??) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL)
+9.  (06/??) Deep Q-learning
+10. (06/??) Proximal Policy Optimization (PPO)
+11. (06/??) Deep Reinforcement Learning (DRL) Applications 
 12. (06/??) Final Project Presentations
 
 Topics Not Covered
@@ -69,8 +69,7 @@ Topics Not Covered
 - Psychology
 - Neuroscience
 - Genetic algorithms
-- Simulated Annealing
-- Monte Carlo Methods
+- Simulated annealing
 - Distributed computing
 - Production applications
 - Robotics
@@ -111,27 +110,35 @@ Tardiness negatively impacts an active learning environment, thus will impact yo
 
 You must show up to each session prepared. Each person is important to the dynamic of the class, and therefore students are required to participate in class activities. Expect to be "cold called". I call on students at random not to put you on the spot but to keep you engaged in the material at all times.
 
-I expect you to be fully present and engaged in the classroom at all times. I _strongly_ suggest taking notes on paper. 
+I expect you to be fully present and engaged in the classroom at all times.  
 
-This is your warning etiquette. Every violation will negatively impact your total grade through the loss of participation points. The penalties scale exponentially - The first offense is will result in a 10% loss of your participation points (i.e., .5% loss of total points), the second offense is 20% loss of participation points, the third offense is 40%, the fourth offense is 65%, and the fifth offense the 100% of your participation points (i.e., 10% of total points or complete letter grade). 
+I except you follow the etiquette guidelines throughout the entire course. This is your warning etiquette. Every violation will negatively impact your total grade through the loss of participation points. The penalties scale exponentially:
+
+|  | Participation points | Total points |
+|:-------:|:------:| :------:|
+| 1st | 10%  | .5%  |
+| 2nd | 20%  | ??   |
+| 3rd | 40%  | ??   |
+| 4th | 75%  | ??  |
+| 5th | 100% | 10% |
 
 ### Auditing Policy
 
-If you are currently a MSDS student, you are welcome to audit any or all classes without my permission. There are two criteria:
+If you are currently a MSDS student, you are welcome to audit any or all classes without my explicit permission. There are two criteria:
 
-1. You must follow the etiquette policy. If you do not, you will be asked to leave.
+1. You must follow the etiquette policy. If you do not, you will be asked to leave.  
 2. You must be in good standing with Career Services. During the summer session, students are required to take only one class so they have more time to focus on their job search. If you are on-track with your job search, you can use your extra time to audit my class. If you are not on-track with your job search, your time is better spent on getting back on track with your job search than auditing my class. 
 
 ### Exam
 
-It will be a combination of multiple choice, short answer, and programming questions.
+The single exam will be a combination of multiple choice, short answer, and programming questions. The tenative plan is to have a take-home exam. Date is TBD.
 
 ### Labs
 
-The labs will be hands-on activities. The focus will be implementing algorithms from scratch or applying common libraries (e.g., PyTorch).
+The labs will be hands-on activities. The focus will be implementing algorithms from scratch or applying common libraries.
 
 | Lab                      | Due Date & Time|
-|:-------------------------|:--------:|
+|:-------------------------|:--------------:|
 | 1. Tower of Hanoi        | 05-??-20 9p|
 | 2. Rock, Paper, Scissors | 05-??-20 9p|
 | 3. Grid World            | 06-??-20 9p|
