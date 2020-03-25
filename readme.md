@@ -40,7 +40,7 @@ By the end of the course, you should be able to:
 1. Apply Reinforcement Learning techniques to solve complex, applied problems.
 1. Define and identify examples of common Reinforcement Learning terms (e.g., agent, environment, state, and rewards).
 1. Implement common Reinforcement Learning techniques (e.g., multi-arm bandits and q-learning) from scratch.
-1. Write Deep Reinforcement Learning applications.
+1. Create end-to-end Deep Reinforcement Learning applications.
 
 ----
 Tentative Course Schedule
@@ -50,9 +50,9 @@ Tentative Course Schedule
 2.  (05/??) Multi-armed Bandits Redux
 3.  (05/??) Contextual Bandits
 4.  (05/??) Markov Decision Processes (MDP) 
-5.  (06/??) Model-Free Policy Evaluation ∧ Dynamic Programming
-6.  (06/??) Model-Free Control ∧ Q Learning
-7.  (06/??) Value Function Approximation 
+5.  (06/??) Dynamic Programming
+6.  (06/??) Q Learning
+7.  (06/??) Value Function Approximation  
 8.  (06/??) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL)
 9.  (06/??) Deep Q-learning
 10. (06/??) Proximal Policy Optimization (PPO)
