@@ -48,7 +48,7 @@ Tentative Course Schedule
 
 1.  (05/??) Welcome ∧ Intro to RL  
 2.  (05/??) Multi-armed Bandits Redux
-3.  (05/??) Contextual Bandits
+3.  (05/??) Contextual Bandits ∧ Recommendation Systems
 4.  (05/??) Markov Decision Processes (MDP) 
 5.  (06/??) Dynamic Programming
 6.  (06/??) Q Learning
@@ -57,7 +57,7 @@ Tentative Course Schedule
 9.  (06/??) Deep Q-learning
 10. (06/??) Proximal Policy Optimization (PPO)
 11. (06/??) Deep Reinforcement Learning (DRL) Applications 
-12. (06/??) Final Project Presentations
+12. (06/??) Future of RL ∧ Student's Choice
 
 Topics Not Covered
 -----
@@ -82,7 +82,7 @@ Textbooks
 
 1. Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto. The standard textbook for RL [pdf](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 1. Algorithms for Reinforcement Learning by Csaba Szepesvari A delightful walk-through of the most common RL algorithms [pdf](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
-1. [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518). There should be edition coming out in April, 2020.
+1. [Artificial Intelligence: A Modern Approach 4ᵗʰ Edition](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518)Coming out on April 11, 2020.
  
 ----
 Grading
@@ -91,7 +91,8 @@ Grading
 | Item           | Weight   |
 |:---------------|:--------:|
 | Participation  | 10%      |
-| Exam           | 30%      |
+| Quizzes        | 10%      |
+| Exam           | 20%      |
 | Labs           | 30%      |
 | Final Project  | 30%      |
 | __Total__      | __100%__ |
@@ -112,15 +113,15 @@ You must show up to each session prepared. Each person is important to the dynam
 
 I expect you to be fully present and engaged in the classroom at all times.  
 
-I except you follow the etiquette guidelines throughout the entire course. This is your warning etiquette. Every violation will negatively impact your total grade through the loss of participation points. The penalties scale exponentially:
+I except you follow the etiquette guidelines throughout the entire course. This is your warning. Every violation will result in a loss of participation points, negatively impacting your total grade. The penalties scale exponentially:
 
-|  | Participation points | Total points |
-|:-------:|:------:| :------:|
-| 1st | 10%  | .5%  |
-| 2nd | 20%  | ??   |
-| 3rd | 40%  | ??   |
-| 4th | 75%  | ??  |
-| 5th | 100% | 10% |
+|     | Participation Loss | Total Loss |
+|:---:|:----:| :------:|
+| 1ˢᵗ | 10%  |  1%   |
+| 2ⁿᵈ | 20%  |  2%   |
+| 3ʳᵈ | 40%  |  4%   |
+| 4ᵗʰ | 75%  |  7.5% |
+| 5ᵗʰ | 100% | 10%   |
 
 ### Auditing Policy
 
@@ -131,7 +132,7 @@ If you are currently a MSDS student, you are welcome to audit any or all classes
 
 ### Exam
 
-The single exam will be a combination of multiple choice, short answer, and programming questions. The tenative plan is to have a take-home exam. Date is TBD.
+The single exam will be a take-home exam, a combination of multiple choice, short answer, and programming questions. Date is TBD.
 
 ### Labs
 
@@ -141,16 +142,17 @@ The labs will be hands-on activities. The focus will be implementing algorithms 
 |:-------------------------|:--------------:|
 | 1. Tower of Hanoi        | 05-??-20 9p|
 | 2. Rock, Paper, Scissors | 05-??-20 9p|
-| 3. Grid World            | 06-??-20 9p|
-| 4. Tic, Tac, Toe         | 06-??-20 9p|
-| 5. Basket Catch          | 06-??-20 9p|
-| 6. Cart Pole             | 06-??-20 9p|
+| 3. Pyramid Escape        | 05-??-20 9p|
+| 4. Grid World            | 06-??-20 9p|
+| 5. Tic, Tac, Toe         | 06-??-20 9p|
+| 6. Basket Catch          | 06-??-20 9p|
+| 7. Cart Pole             | 06-??-20 9p|
 
 Late assignments will only be accepted for medical emergencies.
 
 ### Final Project 
 
-In lieu of a Final Exam, there will be a Final Project due on 06-??-20. The Final Project will be the application of Reinforcement Learning techniques to model data or solve a __novel__ problem. 
+In lieu of a Final Exam, there will be a Final Project. The Final Project will be the application of Reinforcement Learning techniques to model __novel__ data or solve a __novel__ problem. Date is TBD.
 
 More details are in Final Project Folder.
 
