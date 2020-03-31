@@ -18,7 +18,10 @@ conda update --name base conda -y
 conda env create --name $envname --force 
 
 # Start environment
-source activate $envname
+conda activate $envname
+# Note: You might get at "CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'."
+# Then manually run start the env and manually run the remaining commands
+
 
 # Update during development
 # conda update --all --yes 
@@ -26,7 +29,7 @@ source activate $envname
 # conda env export > environment environment.yml
 
 # Enable extensions
-jupyter contrib nbextension install --user
+jupyter contrib nbextension install --sys-prefix
 jupyter nbextension enable spellchecker/main
 jupyter nbextension enable codefolding/main
 jupyter nbextension install rise --py --sys-prefix

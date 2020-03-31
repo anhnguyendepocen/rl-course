@@ -53,10 +53,9 @@ Concepts
 - Bellman Equation
 - Experience Replay
 - Markov Decision Process (MDP)
-    + Partially Observable
+    + Partially Observable Markov Decision Process (POMDP)
 - Value Function
 - TD (temporal difference) algorithms
-
 
 -----
 Other Glossaries
@@ -65,4 +64,3 @@ Other Glossaries
 - https://xaviergeerinck.com/rl-overview-terminology
 - http://rl.ai/pages/glossary.html
 - http://www-anw.cs.umass.edu/rlr/terms.html
-- 

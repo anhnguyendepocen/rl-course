@@ -59,9 +59,12 @@ Tentative Course Schedule
 11. (06/??) Deep Reinforcement Learning (DRL) Applications 
 12. (06/??) Future of RL ∧ Student's Choice
 
+This course is not a [complete survey of RL methods](http://louiskirsch.com/assets/posts/map-reinforcement-learning/methods.svg).
+
 Topics Not Covered
 -----
 
+- Artificial General Intelligence (AGI)
 - “Good Old Fashioned AI”, aka expert / ruled-based systems
 - Cutting-edge research 
 - General discrete and continuous space search / optimization
@@ -70,19 +73,16 @@ Topics Not Covered
 - Neuroscience
 - Genetic algorithms
 - Simulated annealing
-- Distributed computing
-- Production applications
 - Robotics
 - Multiple agents
-- This course is not a [complete survey of RL methods](http://louiskirsch.com/assets/posts/map-reinforcement-learning/methods.svg)
-        
+
 ----
 Textbooks
 ----
 
 1. Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto. The standard textbook for RL [pdf](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
-1. Algorithms for Reinforcement Learning by Csaba Szepesvari A delightful walk-through of the most common RL algorithms [pdf](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
-1. [Artificial Intelligence: A Modern Approach 4ᵗʰ Edition](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518)Coming out on April 11, 2020.
+1. Algorithms for Reinforcement Learning by Csaba Szepesvari. A delightful walk-through of the most common RL algorithms [pdf](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+1. [Artificial Intelligence: A Modern Approach 4ᵗʰ Edition](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518) by Stewart Russell and Peter Norvig. Coming out on April 11, 2020.
  
 ----
 Grading
