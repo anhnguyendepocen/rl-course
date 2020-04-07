@@ -16,15 +16,15 @@ Logistics
 
 __Instructor:__ Brian Spiering   
 __Contact__: [Slack @BrianSpiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
-__Office hours__: TBD | By Appointment   
+__Office hours__: Tuesdays & Thursdays 10:00-11:00am | By Appointment. Link on Canvas in Pages section.
 __Grader__: Alice  
 __Contact__: [Slack @alice](https://msan-usf.slack.com/messages/DJLJMRM5K) | [awang37@usfca.edu](awang37@usfca.edu) 
 
 __Website__: [github.com/brianspiering/
 rl-course](https://github.com/brianspiering/rl-course)    
 __Communication__: Slack [`#reinforcement_learning_2020`](https://msan-usf.slack.com/archives/C010GN8CQ3W)  
-__Location__: Classes will be held online.   
-__Section__: TBD
+__Section__: Tuesdays & Thursdays 11:05am - 1:00pm  
+__Location__: Classes will be held online. Link on Canvas in Pages section.
 
 Prerequisite Knowledge
 ----
@@ -46,18 +46,18 @@ By the end of the course, you should be able to:
 Tentative Course Schedule
 ----
 
-1.  (05/??) Welcome ∧ Intro to RL  
-2.  (05/??) Multi-armed Bandits Redux
-3.  (05/??) Contextual Bandits ∧ Recommendation Systems
-4.  (05/??) Markov Decision Processes (MDP) 
-5.  (06/??) Dynamic Programming
-6.  (06/??) Q Learning
-7.  (06/??) Value Function Approximation  
-8.  (06/??) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL)
-9.  (06/??) Deep Q-learning
-10. (06/??) Proximal Policy Optimization (PPO)
-11. (06/??) Deep Reinforcement Learning (DRL) Applications 
-12. (06/??) Future of RL ∧ Student's Choice
+1.  (05/19) Welcome ∧ Intro to RL  
+2.  (05/21) Multi-armed Bandits Redux
+3.  (05/26) Contextual Bandits ∧ Recommendation Systems
+4.  (05/28) Markov Decision Processes (MDP) 
+5.  (06/02) Dynamic Programming
+6.  (06/04) Q Learning
+7.  (06/09) Value Function Approximation  
+8.  (06/11) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL)
+9.  (06/16) Deep Q-learning
+10. (06/18) Proximal Policy Optimization (PPO)
+11. (06/23) Deep Reinforcement Learning (DRL) Applications 
+12. (06/25) Future of RL ∧ Student's Choice
 
 This course is not a [complete survey of RL methods](http://louiskirsch.com/assets/posts/map-reinforcement-learning/methods.svg).
 
@@ -101,7 +101,7 @@ Each item's contribution is capped its respective percentage. The total course p
 
 Currently, there is no extra credit. If there is any extra credit, it entirely at the discretion of the instructor.
 
-We'll be using Canvas as the learning management system (LMS), aka gradebook. The instructional team will do their best to have Canvas accurately reflect your current scores in the course. However, Canvas may not 100% accurate all the time. In other words, your actual grade maybe significant different than it appears on Canvas. 
+We'll be using Canvas as the learning management system (LMS), aka gradebook. The current canvas course is [here](https://usfca.instructure.com/courses/1593428).The instructional team will do their best to have Canvas accurately reflect your current scores in the course. However, Canvas may not 100% accurate all the time. In other words, your actual grade maybe significant different than it appears on Canvas. 
 
 ### Participation
 
@@ -120,7 +120,7 @@ I except you follow the [etiquette guidelines](https://github.com/brianspiering/
 | 1ˢᵗ | 10%  |  1%   |
 | 2ⁿᵈ | 20%  |  2%   |
 | 3ʳᵈ | 40%  |  4%   |
-| 4ᵗʰ | 75%  |  7.5% |
+| 4ᵗʰ | 80%  |  8%   |
 | 5ᵗʰ | 100% | 10%   |
 
 ### Auditing Policy
@@ -146,12 +146,12 @@ The labs will be hands-on activities. The focus will be implementing algorithms 
 
 | Lab                      | Due Date & Time|
 |:-------------------------|:--------------:|
-| 1. Tower of Hanoi        | 05-??-20 9p|
-| 2. Pyramid Escape        | 05-??-20 9p|
-| 3. Grid World            | 06-??-20 9p|
-| 4. Tic, Tac, Toe         | 06-??-20 9p|
-| 5. Basket Catch          | 06-??-20 9p|
-| 6. Cart Pole             | 06-??-20 9p|
+| 1. Tower of Hanoi        | 05-22-20 6p|
+| 2. Grid World            | 05-29-20 6p|
+| 3. Pyramid Escape        | 06-05-20 6p|
+| 4. Tic, Tac, Toe         | 06-12-20 6p|
+| 5. Basket Catch          | 06-19-20 6p|
+| 6. Cart Pole             | 06-26-20 6p|
 
 Late assignments will only be accepted for medical emergencies.
 
