@@ -1,4 +1,4 @@
-<center><h2>Topics in Artificial Intelligence: Reinforcement Learning <br> University of San Francisco's MSDS 631-02 Summer 2020</h2></center>
+<center><h2>Topics in Artificial Intelligence: Reinforcement Learning <br> University of San Francisco's MSDS 631-01 Summer 2020</h2></center>
 
 <center><img src="https://imgs.xkcd.com/comics/progeny.png" style="width: 40%"/></center>
 
@@ -16,9 +16,7 @@ Logistics
 
 __Instructor:__ Brian Spiering   
 __Contact__: [Slack @BrianSpiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
-__Office hours__: Tuesdays & Thursdays 10:00-11:00am | By Appointment. Link on Canvas in Pages section.
-__Grader__: Alice  
-__Contact__: [Slack @alice](https://msan-usf.slack.com/messages/DJLJMRM5K) | [awang37@usfca.edu](awang37@usfca.edu) 
+__Office hours__: Tuesdays & Thursdays 10:00-11:00am | By Appointment. Link on Canvas in Pages section.  
 
 __Website__: [github.com/brianspiering/
 rl-course](https://github.com/brianspiering/rl-course)    
@@ -46,18 +44,20 @@ By the end of the course, you should be able to:
 Tentative Course Schedule
 ----
 
-1.  (05/19) Welcome ∧ Intro to RL  
-2.  (05/21) Multi-armed Bandits Redux
-3.  (05/26) Contextual Bandits ∧ Recommendation Systems
-4.  (05/28) Markov Decision Processes (MDP) 
-5.  (06/02) Dynamic Programming
-6.  (06/04) Q Learning
+1.  (05/19) Welcome ∧ Intro to RL ∧ Markov Decision Processes (MDP) 
+1.  (05/21) Policy ∧ Value Iteration
+3.  (05/26) Multi-armed Bandits for AB testing
+4.  (05/26) Contextual Bandits for Recommendation Systems
+5.  (06/02) Dynamic Programming ∧ Monte Carlo ∧ Temporal Difference
+6.  (06/04) Q-Learning
 7.  (06/09) Value Function Approximation  
 8.  (06/11) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL)
 9.  (06/16) Deep Q-learning
 10. (06/18) Proximal Policy Optimization (PPO)
 11. (06/23) Deep Reinforcement Learning (DRL) Applications 
 12. (06/25) Future of RL ∧ Student's Choice
+
+The Deep Learning section will be in [Keras](https://www.tensorflow.org/guide/keras).
 
 This course is not a [complete survey of RL methods](http://louiskirsch.com/assets/posts/map-reinforcement-learning/methods.svg).
 
@@ -82,7 +82,7 @@ Textbooks
 
 1. Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto. The standard textbook for RL [pdf](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 1. Algorithms for Reinforcement Learning by Csaba Szepesvari. A delightful walk-through of the most common RL algorithms [pdf](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
-1. [Artificial Intelligence: A Modern Approach 4ᵗʰ Edition](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/) by Stewart Russell and Peter Norvig. Published on April 11, 2020.
+1. [Artificial Intelligence: A Modern Approach 4ᵗʰ Edition](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/) by Stewart Russell and Peter Norvig. Should be published on May 8, 2020.
  
 ----
 Grading
@@ -134,7 +134,7 @@ If you are not a current MSDS student, you are also welcome to enroll this cours
 
 ### Quizzes
 
-There will be a quizz __before__ each class. The quizzes will check that you have studied the prework and are prepared for the in-class activities. The quizzes will be online, and you'll get unlimited attempts.
+There will be a quiz __before__ each class. The quizzes will check that you have completed the prework and are prepared for the in-class activities. The quizzes will be online in Canvas.
 
 ### Exam
 
@@ -157,9 +157,9 @@ Late assignments will only be accepted for medical emergencies.
 
 ### Final Project 
 
-In lieu of a Final Exam, there will be a Final Project. The Final Project will be the application of Reinforcement Learning techniques to model __novel__ data or solve a __novel__ problem. Date is TBD.
+In lieu of a Final Exam, there will be a Final Project. The Final Project will be implement a Reinforcement Learning solution for a __novel__ task. By novel, I mean a task that has no existing Reinforcement Learning solutions. The task could be game, dataset, or business problem.
 
-More details are in Final Project Folder.
+Details and due dates are in Final Project Folder.
 
 ----
 Grading
