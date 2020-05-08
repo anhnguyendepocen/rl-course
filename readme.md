@@ -16,13 +16,13 @@ Logistics
 
 __Instructor:__ Brian Spiering   
 __Contact__: [Slack @BrianSpiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
-__Office hours__: Tuesdays & Thursdays 10:00-11:00am | By Appointment. Link on Canvas in Pages section.  
+__Office hours__: Tuesdays & Thursdays 10:15-11:00am | By Appointment. Link on Canvas in Syllabus section.  
 
 __Website__: [github.com/brianspiering/
 rl-course](https://github.com/brianspiering/rl-course)    
 __Communication__: Slack [`#reinforcement_learning_2020`](https://msan-usf.slack.com/archives/C010GN8CQ3W)  
-__Section__: Tuesdays & Thursdays 11:05am - 1:00pm  
-__Location__: Classes will be held online. Link on Canvas in Pages section.
+__Section__: Tuesdays & Thursdays 11:00am - 1:00pm  
+__Location__: Classes will be held online. Link on Canvas in Zoom section.
 
 Prerequisite Knowledge
 ----
@@ -90,8 +90,8 @@ Grading
 
 | Item           | Weight   |
 |:---------------|:--------:|
+| Prework Check  | 10%      |
 | Participation  | 10%      |
-| Quizzes        | 10%      |
 | Exam           | 20%      |
 | Labs           | 30%      |
 | Final Project  | 30%      |
@@ -132,13 +132,15 @@ If you are a current MSDS student, you are welcome to audit any or all classes w
 
 If you are not a current MSDS student, you are also welcome to enroll this course. Please email for permission [bspiering@usfca.edu](mailto:bspiering@usfca.edu).
 
-### Quizzes
+### Prework Check
 
-There will be a quiz __before__ each class. The quizzes will check that you have completed the prework and are prepared for the in-class activities. The quizzes will be online in Canvas.
+There will be a required prework __before__ each class. The prework will check that you have watch the videos, read the reading, and are prepared for the in-class activities. The prework check also allows be to get a sense for the current  understanding of the class. I know which material I can skim/skip and which material to over in greater detail.
+
+The prework will be online in Canvas.
 
 ### Exam
 
-The single exam will be a take-home exam, a combination of multiple choice, short answer, and programming questions. Date is TBD.
+The single exam will be a take-home exam, a combination of multiple choice, short answer, and programming questions. The exam will be released on 06-11-20 after class and due 06-15-20 6p.
 
 ### Labs
 
