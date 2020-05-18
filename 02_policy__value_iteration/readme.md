@@ -16,6 +16,8 @@ I'm assigning two lectures. The first lecture is a general overview. The second 
 
 Remember to complete the Prework Check on [Canvas](https://usfca.instructure.com/courses/1593428/assignments#) before the start of class.
 
+If you have any questions about the content in the videos, please ask me on Slack.
+
 Optional
 ------
 

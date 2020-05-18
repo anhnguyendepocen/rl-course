@@ -1,3 +1,8 @@
+# Course materials
+instructor/
+instructor_resources/
+*_SOLUTIONS.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -16,7 +16,7 @@ Logistics
 
 __Instructor:__ Brian Spiering   
 __Contact__: [Slack @BrianSpiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
-__Office hours__: Tuesdays & Thursdays 10:15-11:00am | By Appointment. Link on Canvas in Syllabus section.  
+__Office hours__: Tuesdays & Thursdays 10:00-11:00am | By Appointment. Link on Canvas in Syllabus section.  
 
 __Website__: [github.com/brianspiering/
 rl-course](https://github.com/brianspiering/rl-course)    
@@ -45,17 +45,17 @@ Tentative Course Schedule
 ----
 
 1.  (05/19) Welcome ∧ Intro to RL ∧ Markov Decision Processes (MDP) 
-1.  (05/21) Policy ∧ Value Iteration
+2.  (05/21) Policy ∧ Value Iteration
 3.  (05/26) Multi-armed Bandits for AB testing
-4.  (05/26) Contextual Bandits for Recommendation Systems
+4.  (05/28) Contextual Bandits for Recommendation Systems
 5.  (06/02) Dynamic Programming ∧ Monte Carlo ∧ Temporal Difference
-6.  (06/04) Q-Learning
-7.  (06/09) Value Function Approximation  
-8.  (06/11) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL)
-9.  (06/16) Deep Q-learning
-10. (06/18) Proximal Policy Optimization (PPO)
-11. (06/23) Deep Reinforcement Learning (DRL) Applications 
-12. (06/25) Future of RL ∧ Student's Choice
+6.  (06/04) Q-Learning ∧ Value Function Approximation 
+7.  (06/09) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL)
+8.  (06/11) Deep Q-learning
+9.  (06/16) Proximal Policy Optimization (PPO)
+10. (06/18) Deep Reinforcement Learning Applications
+11. (06/23) Future of RL ∧ Student's Choice
+12. (06/25) Alpha Go (Guest Lecture)
 
 The Deep Learning section will be in [Keras](https://www.tensorflow.org/guide/keras).
 
@@ -127,7 +127,7 @@ I except you follow the [etiquette guidelines](https://github.com/brianspiering/
 
 If you are a current MSDS student, you are welcome to audit any or all classes without my explicit permission. There are two criteria:
 
-1. You must follow the etiquette policy. If you do not, you will be asked to leave.  
+1. You must follow the [etiquette guidelines](https://github.com/brianspiering/teaching_materials/blob/master/online_class_etiquette_guidelines.md). If you do not, you will be asked to leave.  
 2. You must be in good standing with Career Services. During the summer session, students are required to take only one class so they have more time to focus on their job search. If you are on-track with your job search, you can use your extra time to audit my class. If you are not on-track with your job search, your time is better spent on getting back on track with your job search than auditing my class. 
 
 If you are not a current MSDS student, you are also welcome to enroll this course. Please email for permission [bspiering@usfca.edu](mailto:bspiering@usfca.edu).
