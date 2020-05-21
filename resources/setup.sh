@@ -22,7 +22,6 @@ conda activate $envname
 # Note: You might get at "CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'."
 # Then manually run start the env and manually run the remaining commands
 
-
 # Update during development
 # conda update --all --yes 
 # # Pin right before teaching
