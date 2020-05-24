@@ -29,7 +29,7 @@ There is __no__ prework check since you have all taken Design of Experiments Cou
 - Stanford CS234: Reinforcement Learning | Lecture 12 - Fast Reinforcement Learning II
     + [Video](https://www.youtube.com/watch?v=jJ7JbQBTChM&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=12)
     + [Slides & Draft lecture notes](http://web.stanford.edu/class/cs234/schedule.html)
-- Stanford CS234: Reinforcement Learning | Lecture 12 - Fast Reinforcement Learning III
+- Stanford CS234: Reinforcement Learning | Lecture 13 - Fast Reinforcement Learning III
     + [Video](https://www.youtube.com/watch?v=Hg_uyWezMM0&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=13)
     + [Slides & Draft lecture notes](http://web.stanford.edu/class/cs234/schedule.html)
 
