@@ -1,15 +1,17 @@
 Student Assignment Submission Instructions
 ------
 
-Submit completed assignment on Canvas. 
+- Submit completed assignment on Canvas. 
+- See Canvas for due date. Late assignments are only accepted for emergencies.
+- You can name the `.ipynb` file anything. Canvas preappends your name during the upload process.
+- You can submit multiple times. I only look at the last submission. It is best practice to submit early and often.
 
-See Canvas for due date. Late assignments are only accepted for emergencies.
-
-Instructions
------
+Grading notes:
+------
 
 - All assignments will be graded by hand. Any coding tests are guides for you.
-- Each line of code you write must have a comment.
+- Each line of code you write must have a comment. Comments should always describe the logic behind the code. Comments most often answer the "why" of code choices.
+- If there are function calls, please use keywords arguments to make your logic more explicit.
 
 Grading guidelines
 ------
