@@ -37,6 +37,8 @@ This project can either be individual or teams of two people.
 
 This project will become a part of your public portfolio, thus all data and code must be public. Both data and code should have an appropriate license.  
 
+The course materials are a brief (and opinionated) tour of Reinforcement Learning. You can directly apply course materials to a new problem, extend course materials, or go beyond the course materials. Anything within a board definition of Reinforcement Learning is fair game. Just ask the instructor.
+
 It is best if all ideas and code are original with you. However, you can build on prior work. If you choose to incorporate prior work, the project will be more challenging because you'll have to be very clear what was previously done and what is your unique contribution. You must cite all ideas and code immediately adjacent (i.e., comments or markdown cell with hyperlinks). See course materials for examples. __Failure to cite any ideas and code, will result in an automatic 0 on this project.__
 
 The primary deliverabls are :
