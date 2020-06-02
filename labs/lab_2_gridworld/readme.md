@@ -24,7 +24,7 @@ Grading guidelines
     + \_\_\_ out of 5 points: Calculates the utility of each state. 
     + \_\_\_ out of 3 points: Handles stopping condition.
 - \_\_\_ out of 5 points: Code readability and comments.
-    + \_\_\_ out of 2 points: Clear, semantic variable names.
-    + \_\_\_ out of 3 points: Style always follows pep8 conventions.
-    + \_\_\_ out of 2 points: Each line has a comment.
-    + \_\_\_ out of 3 points: Comments are meaningful and complete thoughts. 
+    + \_\_\_ out of 1 points: Clear, semantic variable names.
+    + \_\_\_ out of 1 points: Style always follows pep8 conventions.
+    + \_\_\_ out of 1 points: Each line has a comment.
+    + \_\_\_ out of 2 points: Comments are meaningful and complete thoughts.
