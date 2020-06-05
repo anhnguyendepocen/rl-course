@@ -8,7 +8,7 @@ Required
     - [video](https://youtu.be/njKP3FqW3Sk?t=491)
     - [slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L1.pdf)
 
-- Stanford CS234: Reinforcement Learning | Lecture 6 - CNNs and Deep Q Learning
+- Stanford CS234: Reinforcement Learning | Lecture 6 - CNNs and Deep Q Learning (stop at 1:02 don't watch Double DQN)
     + [Video](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=6)
     + [Slides & Draft lecture notes](http://web.stanford.edu/class/cs234/schedule.html)
 
