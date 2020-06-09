@@ -52,8 +52,8 @@ Tentative Course Schedule
 6.  (06/04) Q-Learning ∧ Value Function Approximation 
 7.  (06/09) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL)
 8.  (06/11) Deep Q-learning
-9.  (06/16) Proximal Policy Optimization (PPO)
-10. (06/18) Deep Reinforcement Learning Applications
+9.  (06/16) Deep Reinforcement Learning Applications
+10. (06/18) Proximal Policy Optimization (PPO)
 11. (06/23) Future of RL ∧ Student's Choice
 12. (06/25) Alpha Go (Guest Lecture)
 
@@ -140,7 +140,7 @@ The prework will be online in Canvas.
 
 ### Exam
 
-The single exam will be a take-home exam, a combination of multiple choice, short answer, and programming questions. The exam will be released on 06-11-20 after class and due 06-15-20 6p.
+The single exam will be a take-home exam. The exam will be released on 06-11-20 at the end of class and due 06-15-20 8p.
 
 ### Labs
 
