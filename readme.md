@@ -49,9 +49,9 @@ Tentative Course Schedule
 3.  (05/26) Multi-armed Bandits for AB testing
 4.  (05/28) Contextual Bandits for Recommendation Systems
 5.  (06/02) Dynamic Programming ∧ Monte Carlo ∧ Temporal Difference
-6.  (06/04) Q-Learning ∧ Value Function Approximation 
-7.  (06/09) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL)
-8.  (06/11) Deep Q-learning
+6.  (06/04) Q-Learning
+7.  (06/09) Value Function Approximation ∧ Deep Learning (DL) Refresher
+8.  (06/11) Deep Reinforcement Learning (DRL) ^ Deep Q-learning
 9.  (06/16) Deep Reinforcement Learning Applications
 10. (06/18) Proximal Policy Optimization (PPO)
 11. (06/23) Future of RL ∧ Student's Choice

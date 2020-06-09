@@ -25,5 +25,5 @@ Challenge
 
 - https://thegradient.pub/why-rl-is-flawed/
 - [From pixels to Pong](http://karpathy.github.io/2016/05/31/rl/)
-- https://github.com/andri27-ts/60_Days_RL_Challenge
+- [Learn Deep Reinforcement Learning in 60 days in Pytorch](https://github.com/andri27-ts/60_Days_RL_Challenge)
                                                   
