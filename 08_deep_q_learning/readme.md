@@ -21,3 +21,11 @@ __Optional__:
 - [Deep Reinforcement Learning and the Deadly Triad](https://arxiv.org/abs/1812.02648)
 - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461https://arxiv.org/abs/1509.06461)
 
+Challenge
+-----
+
+- As a class, we are skipping the following Stanford lectures. They are mostly research-oriented. You are welcome to watch it on your own.
+    - Lecture 7 - Imitation Learning 
+    - Lecture 8 - Policy Gradient I
+    - Lecture 9 - Policy Gradient II
+    - Lecture 10 - Policy Gradient III & Midterm Review 
