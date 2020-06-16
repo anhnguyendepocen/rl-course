@@ -7,7 +7,7 @@ Required
 
 __NOTHING__
 
-There is no required prework or prework check.   You should be focused on the take-home exam.   
+There is no required prework or prework check. You should be focused on the take-home exam
 
 
 __Optional__
