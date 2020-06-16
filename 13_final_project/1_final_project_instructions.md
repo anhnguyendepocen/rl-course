@@ -21,10 +21,10 @@ Final Project deliverables
 |:----------------------|:---------------:|:-----: |  
 | Proposal              | 06-05 6pm       |  5%    |
 | Check-in              | 06-19 6pm       |  5%    |
-| Video & code public   | 06-26 12pm      |  0%    |
-| Peer feedback         | 06-26 4pm       |  5%    |
-| Presentation video finalized| 06-26 6pm | 35%    |
-| Code repository finalized   | 06-26 6pm | 50%    |
+| Video & code public   | 06-26 11am      |  0%    |
+| Peer feedback         | 06-26 1pm       |  5%    |
+| Presentation video finalized| 06-26 3pm | 35%    |
+| Code repository finalized   | 06-26 3pm | 50%    |
 | __Total__             |                 |__100%__|
 
 
@@ -51,7 +51,7 @@ The signup sheet is on Canvas.
 How the Peer Feedback will work
 ------
 
-You'll make your video and code public no later than 06-26 12pm. Failure to do so will result in loss of 17% of Final Project grade per hour the entire project is not public). You are required to watch and review 3 other projects assigned to you. Similar to the prework check, those reviews will be judged on "good faith" attempts. If you give "good faith" feedback to your peers before the 4pm deadline, you'll get all the peer feedback points as an item on __your__ Final Project score. *The peer feedback you give will not impact the other student's project scores.* 
+You'll make your video and code public no later than 06-26 11am. Failure to do so will result in loss of 17% of Final Project grade per hour the entire project is not public). You are required to watch and review 3 other projects assigned to you. Similar to the prework check, those reviews will be judged on "good faith" attempts. If you give "good faith" feedback to your peers before the 1pm deadline, you'll get all the peer feedback points as an item on __your__ Final Project score. *The peer feedback you give will not impact the other student's project scores.* 
 
 You can continue to improve your own project until the freeze 06-26 6pm (hopefully based on the peer feedback.)
 
