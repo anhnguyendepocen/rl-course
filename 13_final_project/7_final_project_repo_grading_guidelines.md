@@ -4,6 +4,7 @@
 
 - \_\_\_\_ (50 points) Repository 
     - \_\_\_\_ (5 points) Readme 
+        + Embed your video presentation in page. [Instructions here](https://www.nathan-lam.com/blog/embed-video-in-github-readme.html): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         - Understandable for someone outside of course: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         - Has at least 1 picture: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         - Overall summary of entire project: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
