@@ -7,7 +7,7 @@ Learning Outcomes:
 ----
 
 - Formulate a meaningful and answerable Reinforcement Learning applied research question.
-- Implement Reinforcement Learning algorithm(s) to answer that applied research question. 
+- Find and apply the appropriate Reinforcement Learning algorithm(s) to answer that applied research question. 
 - Create a system that learns from the data to get better at the task.
 - Communicate your process and findings to a technical audience.
 - Write working and well-organized code.
